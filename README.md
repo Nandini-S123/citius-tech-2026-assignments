@@ -1,4 +1,4 @@
-**Name : Nandini S
+**Name : Nandini S**
 Developer trainee
 
-Java Fundamentals - Day 3 Assignment**
+Java Fundamentals - Day 3 Assignment
